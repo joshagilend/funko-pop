@@ -1,0 +1,44 @@
+{
+  "funkoPopDesign": {
+    "character": "Pikachu",
+    "theme": "Pink Edition",
+    "colors": {
+      "body": "light pink",
+      "cheeks": "hot pink",
+      "ears": {
+        "inner": "white",
+        "tips": "dark pink"
+      },
+      "eyes": "black",
+      "nose": "black",
+      "tail": "light pink with a dark pink outline",
+      "electric_sparks": "glitter pink"
+    },
+    "pose": "cheerful with one arm raised",
+    "base": {
+      "type": "detachable",
+      "shape": "heart",
+      "color": "pink gradient"
+    },
+    "accessories": [
+      {
+        "type": "flower crown",
+        "colors": ["white", "pink", "gold"]
+      },
+      {
+        "type": "mini Pokeball",
+        "position": "held in raised hand",
+        "color": "pink and white"
+      }
+    ],
+    "packaging": {
+      "boxDesign": {
+        "primaryColor": "pink",
+        "secondaryColor": "white",
+        "logo": "Pokémon",
+        "specialEditionSticker": "Pink Limited Edition"
+      },
+      "windowShape": "rounded heart"
+    }
+  }
+}
