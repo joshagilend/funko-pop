@@ -1,0 +1,40 @@
+{
+    "funkoPopDesign": {
+      "character": "Pikachu",
+      "theme": "Black Edition",
+      "colors": {
+        "body": "black",
+        "cheeks": "neon yellow",
+        "ears": {
+          "inner": "dark grey",
+          "tips": "matte black"
+        },
+        "eyes": "glowing red",
+        "nose": "black",
+        "tail": "black with neon yellow outline",
+        "electric_sparks": "gold"
+      },
+      "pose": "dynamic, mid-jump",
+      "base": {
+        "type": "detachable",
+        "shape": "lightning bolt",
+        "color": "glowing yellow"
+      },
+      "accessories": [
+        {
+          "type": "lightning effect",
+          "position": "around tail",
+          "color": "yellow"
+        }
+      ],
+      "packaging": {
+        "boxDesign": {
+          "primaryColor": "black",
+          "secondaryColor": "gold",
+          "logo": "Pokémon",
+          "specialEditionSticker": "Shadow Edition"
+        },
+        "windowShape": "angular"
+      }
+    }
+  }

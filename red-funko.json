@@ -1,0 +1,40 @@
+{
+    "funkoPopDesign": {
+      "character": "Pikachu",
+      "theme": "Red 2 Edition",
+      "colors": {
+        "body": "red",
+        "cheeks": "black",
+        "ears": {
+          "inner": "dark red",
+          "tips": "crimson"
+        },
+        "eyes": "gold",
+        "nose": "black",
+        "tail": "red with black outline",
+        "electric_sparks": "crimson"
+      },
+      "pose": "roaring",
+      "base": {
+        "type": "detachable",
+        "shape": "flame",
+        "color": "orange-red gradient"
+      },
+      "accessories": [
+        {
+          "type": "flame effect",
+          "position": "around tail and arms",
+          "color": "red and orange"
+        }
+      ],
+      "packaging": {
+        "boxDesign": {
+          "primaryColor": "red",
+          "secondaryColor": "black",
+          "logo": "Pokémon",
+          "specialEditionSticker": "Flame Edition"
+        },
+        "windowShape": "fiery"
+      }
+    }
+  }

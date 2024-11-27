@@ -1,0 +1,40 @@
+{
+    "funkoPopDesign": {
+      "character": "Pikachu",
+      "theme": "Pink 2 Edition",
+      "colors": {
+        "body": "rose pink",
+        "cheeks": "peach",
+        "ears": {
+          "inner": "white",
+          "tips": "light coral"
+        },
+        "eyes": "soft pink",
+        "nose": "peach",
+        "tail": "rose pink with coral outline",
+        "electric_sparks": "peach glitter"
+      },
+      "pose": "sitting",
+      "base": {
+        "type": "non-detachable",
+        "shape": "flower",
+        "color": "light pink"
+      },
+      "accessories": [
+        {
+          "type": "mini plushie",
+          "position": "next to Pikachu",
+          "color": "pink and white"
+        }
+      ],
+      "packaging": {
+        "boxDesign": {
+          "primaryColor": "pink",
+          "secondaryColor": "white",
+          "logo": "Pokémon",
+          "specialEditionSticker": "Sweetheart Edition"
+        },
+        "windowShape": "heart"
+      }
+    }
+  }

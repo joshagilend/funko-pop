@@ -1,0 +1,40 @@
+{
+    "funkoPopDesign": {
+      "character": "Pikachu",
+      "theme": "Yellow 3 Edition",
+      "colors": {
+        "body": "golden yellow",
+        "cheeks": "white",
+        "ears": {
+          "inner": "yellow",
+          "tips": "gold"
+        },
+        "eyes": "black",
+        "nose": "black",
+        "tail": "golden yellow with white sparkles",
+        "electric_sparks": "white glitter"
+      },
+      "pose": "dancing",
+      "base": {
+        "type": "detachable",
+        "shape": "star",
+        "color": "yellow gradient"
+      },
+      "accessories": [
+        {
+          "type": "starburst effect",
+          "position": "around Pikachu",
+          "color": "gold and white"
+        }
+      ],
+      "packaging": {
+        "boxDesign": {
+          "primaryColor": "yellow",
+          "secondaryColor": "white",
+          "logo": "Pokémon",
+          "specialEditionSticker": "Sunburst Edition"
+        },
+        "windowShape": "star"
+      }
+    }
+  }

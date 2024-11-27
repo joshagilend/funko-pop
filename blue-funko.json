@@ -1,0 +1,40 @@
+{
+    "funkoPopDesign": {
+      "character": "Pikachu",
+      "theme": "Blue Edition",
+      "colors": {
+        "body": "sky blue",
+        "cheeks": "white",
+        "ears": {
+          "inner": "cyan",
+          "tips": "navy blue"
+        },
+        "eyes": "navy blue",
+        "nose": "cyan",
+        "tail": "sky blue with navy outline",
+        "electric_sparks": "blue glitter"
+      },
+      "pose": "flying with wings",
+      "base": {
+        "type": "detachable",
+        "shape": "cloud",
+        "color": "white and blue gradient"
+      },
+      "accessories": [
+        {
+          "type": "wings",
+          "position": "on back",
+          "color": "transparent blue"
+        }
+      ],
+      "packaging": {
+        "boxDesign": {
+          "primaryColor": "blue",
+          "secondaryColor": "white",
+          "logo": "Pokémon",
+          "specialEditionSticker": "Sky Edition"
+        },
+        "windowShape": "cloud"
+      }
+    }
+  }
